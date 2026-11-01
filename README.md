@@ -15,7 +15,11 @@
 
 语音无转写，不补。原件里的【】存疑，原样保留。
 
-每轮 Cursor 对话的目录和问答在 [records/Cursor对话轮描述与跳转/Cursor对话轮描述与跳转.docx](records/Cursor对话轮描述与跳转/Cursor对话轮描述与跳转.docx)。首页表用短链 `§n` 跳到后文。
+每轮 Cursor 对话的目录和问答在 [records/Cursor对话轮描述与跳转/Cursor对话轮描述与跳转.docx](records/Cursor对话轮描述与跳转/Cursor对话轮描述与跳转.docx)。首页表用短链 `§n` 跳到后文；每轮段末「回表」跳回表头。
+
+## 职业原文（另一份）
+
+零碎讲述工作、家庭和两边张力时，记在 [records/时间戳职业原文与Grok4丶6精炼.md](records/时间戳职业原文与Grok4丶6精炼.md)。只追加原文和时间戳。发出【开始评估】之后，才在文末追加精炼，并在 `records/工作情境评估/` 生成评估 Word。50 项原表不改。
 
 ## 两边怎么防混
 
