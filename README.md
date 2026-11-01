@@ -15,6 +15,8 @@
 
 语音无转写，不补。原件里的【】存疑，原样保留。
 
+每轮 Cursor 对话的目录和问答在 [records/Cursor对话轮描述与跳转/Cursor对话轮描述与跳转.docx](records/Cursor对话轮描述与跳转/Cursor对话轮描述与跳转.docx)。首页表用短链 `§n` 跳到后文。
+
 ## 两边怎么防混
 
 1. **主语锁死**：A 栏只写 Empty，B/C 栏只写 AFor。
